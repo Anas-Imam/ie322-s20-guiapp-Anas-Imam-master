@@ -72,7 +72,7 @@ namespace MY_FIRST_APP
             if (msg.Length > 0)
                 MessageBox.Show(msg + " ordered");
             else
-                MessageBox.Show("nothing ordered");
+                MessageBox.Show("nothing ordered"); // 1234
         }
     }
 }
